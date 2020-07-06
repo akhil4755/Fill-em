@@ -16,7 +16,7 @@ Just run the Python Script & answer all the inputs requested :
     
 If all the input are found as expected, You'll find a result "Output Generated".
 
-<h3> Command-line Argument Usage : </h3>
+<h3> Command-line Argument Usage : </h3>  ( Currently not included )
 
  <code> py script.js c ./inputfile.extension "character" </code>
 
