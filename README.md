@@ -5,7 +5,7 @@ Use this tool to fill your Files with characters that wont affect your code
 
 <h3> Simple Usage : </h3>
 
- <code> py script.js </code>
+ <code> py script.py </code>
 
 Just run the Python Script & answer all the inputs requested :
 1. Enter file path 
